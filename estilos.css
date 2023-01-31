@@ -1,0 +1,61 @@
+* {
+        
+        background-color: rgb(175, 170, 170);
+        
+}
+.texto {border-color: black;}
+html {text-align: center;
+     } 
+
+body {
+    
+
+        background-color: gray;
+        padding: 10 , 3 , 10 , 3
+    
+    
+       }
+       
+#titulo {
+        font-size: 40px;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 20 , 3 , 20 , 3
+         }
+#foto { text-align: center;
+        font-size: 150;
+        font-family: 'Times New Roman', Times, serif;
+        }
+#nombre {text-align: center;
+        font-size: 185;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 20 , 3 , 20 , 3
+        }     
+h3      {text-align: center;
+          font-size: 75;
+          font-family: 'Times New Roman', Times, serif;}  
+p       {text-align: center;
+        font-size: 75;
+        font-family: 'Times New Roman', Times, serif;}
+OL {text-align: center;
+    font-size: 75;
+    font-family: 'Times New Roman', Times, serif;}
+
+A {text-align: center;
+    color: black;
+    font-size: 75;
+    font-family: 'Times New Roman', Times, serif;}
+
+.texto {text-align: center;
+        color: black;
+        font-size: 75;
+        font-family: 'Times New Roman', Times, serif;}
+#empleador {font: size 40px;
+            text-decoration: underline; }
+
+footer {text-align: center;
+    font-size: 75;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto; 
+    padding: 10px;
+}
+
